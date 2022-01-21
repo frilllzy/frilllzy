@@ -10,17 +10,16 @@
 </head>
 <body>
 
-<!-- Load an icon library to show a hamburger menu (bars) on small screens -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+<div>
 <div class="topnav" id="myTopnav">
-  <a href="#home" class="active">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
-  </a>
+<nav>
+  <ul>
+    <li><a href="Home.html">Home</a></li>
+    <li><a href="Commissions.html">Commissions</a></li>
+    <li><a href="links.html">Links</a></li>
+
+  </ul>
+</nav>
 </div>
 
 <p>Hi!</p>
@@ -30,6 +29,10 @@
 <p>Please remember that I'm not going to be available very often because of school and personal life! I would really appreciate it if you support one of my social medias</p>
 <p>I mostly publish my artworks on the internet, mainly Instagram!</p>
 <p>See my personal intro below!</p></font>
+
+ <button onclick="window.location.href='https://www.instagram.com/frilllzy';">
+     Instagram
+    </button>
 
 </body>
 </html>
