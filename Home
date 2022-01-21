@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<title>Frill's portfolio - Home</title><meta property="og:site_name" content="Frill's portfolio">
-<h2 class="wsite-content-title" style="text-align: left; user-select: auto;"><font size="4" style="user-select: auto;"><span style="color: rgb(0, 0, 0); user-select: auto;">Hi!</span> <span style="color: rgb(0, 0, 0); user-select: auto;">Call me Frill (based in Indonesia). I'm a self taught artist! I also enjoy playing games and music. I have been making art since 2019! I make artworks and digital designs.</span><br style="user-select: auto;"><span style="color: rgb(0, 0, 0); user-select: auto;">I also have social media that I'll be linking in my bio!</span><br style="user-select: auto;"><span style="color: rgb(0, 0, 0); user-select: auto;">Please remember that I'm not going to be available very often because of school and personal life!<br style="user-select: auto;">I would really appreciate it if you support one of my social medias</span><br style="user-select: auto;"><span style="color: rgb(0, 0, 0); user-select: auto;">I mostly publish my artworks on the internet, mainly Instagram!</span></font></h2>
+<title>Frill's portfolio</title>
 
-<div style="text-align: left; user-select: auto;"><div style="height: 10px; overflow: hidden; user-select: auto;"></div>
-<a class="wsite-button wsite-button-small wsite-button-normal" href="https://www.instagram.com/frilllzy/" target="_blank" style="user-select: auto;">
-<span class="wsite-button-inner" style="user-select: auto;">Instagram</span>
-</a>
-<div style="height: 10px; overflow: hidden; user-select: auto;"></div></div>
+  <link rel="icon" type="image" href="Frilllzy lolll.png">
+</head>
+<body>
 
-<div style="text-align: left; user-select: auto;"><div style="height: 10px; overflow: hidden; user-select: auto;"></div>
-<a class="wsite-button wsite-button-small wsite-button-normal" href="https://crvngefrvll.carrd.co/" target="_blank" style="user-select: auto;">
-<span class="wsite-button-inner" style="user-select: auto;">Personal introduction</span>
-</a>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
 </html>
